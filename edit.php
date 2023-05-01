@@ -211,7 +211,7 @@ role='alert'
                     </div>
                     <div class="col-sm-3 d-grid">
                          <a 
-                         class="btn btn-outline-primary" href="/myshop/index.php" 
+                         class="btn btn-outline-secondary" href="/myshop/index.php" 
                          role="button"
                          >
                          Cancel

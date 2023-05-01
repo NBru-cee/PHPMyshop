@@ -10,7 +10,7 @@
 <body>
      <div class="container my-5">
           <h2 >List of Clients</h2>
-          <a href="/myshop/create.php" class="btn btn-primary">New Client</a>
+          <a href="/myshop/create.php" class="btn btn-secondary">New Client</a>
           <br>
           <table class="table">
                <thead>
@@ -66,7 +66,7 @@
                               <td>
                                    <a 
                                         href='/myshop/edit.php?id=$row[id]' 
-                                        class='btn btn-primary btn-sm'
+                                        class='btn btn-info btn-sm'
                                    >
                                         Edit
                                    </a>
