@@ -59,7 +59,7 @@
                          echo"
                            <tr>
                               <td>$row[id]</td>
-                              <td>$row[name]</td>
+                              <td>$row[firstname]</td>
                               <td>$row[email]</td>
                               <td>$row[phone]</td>
                               <td>$row[address]</td>
